@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~xterm/css/xterm.css';
+
+body {
+  margin: 0;
+}
+
+.xterm .xterm-viewport {
+  overflow-y: hidden;
+}
