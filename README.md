@@ -44,7 +44,8 @@ Navigate to `http://localhost:4200/`
 ### Add XTerm CSS to your styles.scss file
 *This is important otherwise your shell's display will be incorrect*
 
-```@import '~xterm/css/xterm.css';
+```
+@import '~xterm/css/xterm.css';
 
 html,
 body {
